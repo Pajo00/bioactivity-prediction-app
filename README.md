@@ -20,10 +20,9 @@ You can read the full research paper [here](https://peerj.com/articles/2322/)).
 
 ## Installation
 
-1.Clone the repository:
+1.Clone the repository
 
-2. Usage
-Run the Jupyter Notebook:
+2. Usage:
 Open the bioactivity_prediction_app.ipynb file in Jupyter Notebook.
 Execute the cells to build and run the model on your system.
 
